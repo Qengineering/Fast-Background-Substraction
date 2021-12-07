@@ -102,3 +102,8 @@ If you want to run a movie please alter line 253 in main.cpp to<br/>
 ## Papers.
 - Zoran Zivkovic and Ferdinand van der Heijden. Efficient adaptive density estimation per image pixel for the task of background subtraction. Pattern recognition letters, 27(7):773–780, 2006. [link](https://www.academia.edu/33302633/Efficient_adaptive_density_estimation_per_image_pixel_for_the_task_of_background_subtraction)<br/>
 - Zoran Zivkovic. Improved adaptive gaussian mixture model for background subtraction. In Pattern Recognition, 2004. ICPR 2004. Proceedings of the 17th International Conference on, volume 2, pages 28–31. IEEE, 2004. [link](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.1.4658)<br/>
+
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
